@@ -18,4 +18,10 @@ class User {
       'email': email,
       'add': add,
     };
+
+
+
+  // static jsonDecode(List userList1) {
+    
+  // }
 }
